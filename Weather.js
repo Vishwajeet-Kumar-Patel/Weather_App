@@ -62,7 +62,7 @@ function dateBuilder(d) {
     'July',
     'August',
     'September',
-    'Oktoberr',
+    'Octoberr',
     'November',
     'December',
   ]
